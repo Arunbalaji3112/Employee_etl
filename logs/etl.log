@@ -1,0 +1,14 @@
+2026-11-23 16:50:44,506 - INFO - Employee ETL pipeline started
+2026-11-23 16:50:44,506 - INFO - Employee ID 101 processed successfully
+2026-11-23 16:50:44,506 - INFO - Employee ID 102 processed successfully
+2026-11-23 16:50:44,507 - WARNING - Employee ID 103 rejected: invalid literal for int() with base 10: 'invalid'
+2026-11-23 16:50:44,507 - WARNING - Employee ID 104 rejected: Salary cannot be negative
+2026-11-23 16:50:44,507 - INFO - Employee ID 105 processed successfully
+2026-11-23 16:50:44,507 - WARNING - Employee ID 102 rejected: Duplicate employee ID
+2026-11-23 16:50:44,507 - INFO - Employee ID 106 processed successfully
+2026-11-23 16:50:44,507 - INFO - Valid employee CSV created successfully
+2026-11-23 16:50:44,508 - INFO - Rejected employee CSV created successfully
+2026-11-23 16:50:44,549 - INFO - Total records: 7
+2026-11-23 16:50:44,549 - INFO - Valid records: 4
+2026-11-23 16:50:44,549 - INFO - Rejected records: 3
+2026-11-23 16:50:44,549 - INFO - Employee ETL pipeline completed successfully

@@ -1,0 +1,4 @@
+id,name,reason
+103, arun ,invalid literal for int() with base 10: 'invalid'
+104, mohan ,Salary cannot be negative
+102, PRIYA ,Duplicate employee ID

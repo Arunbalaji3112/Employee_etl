@@ -1,0 +1,8 @@
+id,name,salary,department
+101, ravi ,45000,IT
+102, PRIYA ,65000,Finance
+103, arun ,invalid,IT
+104, mohan ,-5000,HR
+105, kumar ,55000,IT
+102, PRIYA ,65000,Finance
+106, meena ,70000,HR
